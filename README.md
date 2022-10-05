@@ -1,5 +1,9 @@
 # memview
 
+This repo is moving to https://github.com/mcu-debug/memview as a collection of extensions under the [mcu-debug](https://github.com/mcu-debug) organization. It is also in preview in the marketplace as a new extension https://marketplace.visualstudio.com/items?itemName=mcu-debug.memory-view.
+
+This repo will no longer be maintained. Sorry for the confusion
+
 https://marketplace.visualstudio.com/items?itemName=haneefdm.memview is available as a preview. Please read the following first though.
 
 This is a memory viewer extension specially built to work with debuggers. It can be used with any debugger that supports memory reads (and optional writes). Currently `cppdbg`, `cortex-debug` and `cspy` are the debuggers supported. This extension is more suitable for low level programmers or embedded developers. The debugger has to support the [Debug Adapter Protocol](https://microsoft.github.io/debug-adapter-protocol/). This protocol specifies how to format/make requests and responses. However it does not say what happens when a request fails so there may be issues in failure conditions -- we try our best to recover.
