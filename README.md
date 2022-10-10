@@ -1,6 +1,6 @@
-# memview
+# memview (OBSOLETE)
 
-This repo is moving to https://github.com/mcu-debug/memview as a collection of extensions under the [mcu-debug](https://github.com/mcu-debug) organization. It is also in preview in the marketplace as a new extension https://marketplace.visualstudio.com/items?itemName=mcu-debug.memory-view.
+This repo is moving to https://github.com/mcu-debug/memview as a collection of extensions under the [mcu-debug](https://github.com/mcu-debug) organization. It is also in preview in the marketplace as a new extension https://marketplace.visualstudio.com/items?itemName=mcu-debug.memory-view. Once new new repo/extension is stable, we are going to un-publish this extension
 
 This repo will no longer be maintained. Sorry for the confusion
 
